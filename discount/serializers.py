@@ -1,7 +1,7 @@
 from django.utils.timezone import now
 from rest_framework import serializers, validators
 
-from models import Discount
+from discount.models import Discount
 
 
 class DiscountSerializer(serializers.ModelSerializer):
