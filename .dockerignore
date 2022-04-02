@@ -1,0 +1,6 @@
+/venv/
+.dockerignore
+Dockerfile
+.idea
+db.sqlite3
+.pytest_cache
